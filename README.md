@@ -1,5 +1,4 @@
-## Cannibalisation Classifier with Jev (TypeSafe AI System One model)
-
+## Cannibalisation Classifier with Jev
 ### What it does
 
 1. **Reads your Excel file** — every tab you might have (e.g; branded, non-brand), and remembers which tab each row came from.
