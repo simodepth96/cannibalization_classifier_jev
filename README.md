@@ -10,9 +10,12 @@
 4. **Runs those comparisons in parallel** (8 at a time by default).
 5. **Saves everything to a CSV** — one row per URL pair, with the risk score, which page should be primary, and severity.
 
-### What You Get — a spreadsheet flagging exactly which pages are stepping on each other's toes for the same queries.
+### What You Get 
+A spreadsheet flagging exactly which pages are stepping on each other's toes for the same queries.
 
 ### Input — expected columns on each sheet
+
+Paste the script.py into a new Google Colab notebook. The script expects the following columns
 
 | Column | Description |
 |---|---|
